@@ -1,0 +1,4 @@
+sentence = "I am learning Python for CSE"
+words = sentence.split()
+count = len(words)
+print(count)
