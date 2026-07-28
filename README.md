@@ -1,5 +1,5 @@
 # Python-
 
-Python practice while learning CSE basics
+Python practice for CSE preparation 
 
 Includes DSA practice problems: reverse_string, find_max, two_sum
